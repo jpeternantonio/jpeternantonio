@@ -20,10 +20,10 @@
 [<img align="left" alt="jpa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jpa | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 
-<br />
 ### Digital Badge:
 
-[<img alt="oca" src="https://www.pngitem.com/pimgs/m/178-1789132_oracle-database-sql-certified-associate-oracle-certified-associate.png" width="50px">] [oca]
+
+[<img alt="oca" src="https://www.pngitem.com/pimgs/m/178-1789132_oracle-database-sql-certified-associate-oracle-certified-associate.png" width="100px">][oca]
 <br />
 
 ### Languages and Tools:
