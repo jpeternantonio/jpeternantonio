@@ -5,7 +5,7 @@
 ## I'm a Developer and DBA!
 
 - 🔭 I’m currently working on [Integrated Security and Automation Inc](http://www.isa.com.ph/)!
-- 🌱 I’m currently learning AWS <img alt="aws" width="26px" src="https://cloudastronautblog.files.wordpress.com/2017/10/aws_logo_smile_1200x630.png">
+- 🌱 I’m currently learning cloud computing(AWS)
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love gaming and play piano
@@ -20,6 +20,10 @@
 [<img align="left" alt="jpa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jpa | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 
+<br />
+### Digital Badge:
+
+[<img alt="oca" src="https://www.pngitem.com/pimgs/m/178-1789132_oracle-database-sql-certified-associate-oracle-certified-associate.png" width="50px">] [oca]
 <br />
 
 ### Languages and Tools:
@@ -50,3 +54,4 @@
 [fb]: https://www.facebook.com/johnpeter.antonio
 [gitlab]: https://gitlab.isa.net.ph/johnpeteraa
 [linkedin]: https://www.linkedin.com/in/john-peter-antonio-637976119/
+[oca]: https://www.youracclaim.com/badges/aca5aca4-7ee8-432b-8a8c-3a71ebd992f7/linked_in_profile
