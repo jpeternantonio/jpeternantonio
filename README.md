@@ -5,7 +5,7 @@
 ## I'm a Developer and DBA!
 
 - 🔭 I’m currently working on [Integrated Security and Automation Inc](http://www.isa.com.ph/)!
-- 🌱 I’m currently learning AWS <img alt="aws" src="https://cloudastronautblog.files.wordpress.com/2017/10/aws_logo_smile_1200x630.png">
+- 🌱 I’m currently learning AWS <img alt="aws" width="26px" src="https://cloudastronautblog.files.wordpress.com/2017/10/aws_logo_smile_1200x630.png">
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love gaming and play piano
