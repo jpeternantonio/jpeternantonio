@@ -11,7 +11,7 @@
 - ⚡   Fun fact: I love gaming and play piano
 
 ### Spotify Playing 🎧
-[<img src="https://cdn.dribbble.com/users/441326/screenshots/3165191/spotify-gif---oliver-keane.gif" alt="jpa Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DXe3Jzj3uus9u)
+[<img src="https://i.gifer.com/T8X9.gif" alt="jpa Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DXe3Jzj3uus9u)
 
 ### Connect with me:
 
