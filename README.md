@@ -16,9 +16,8 @@
 ### Connect with me:
 
 [<img align="left" alt="jpa" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jpa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][fb]
 [<img align="left" alt="jpa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jpa | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
+
 
 <br />
 
@@ -53,7 +52,5 @@
 
 
 [website]: https://jpa.netlify.app/
-[fb]: https://www.facebook.com/johnpeter.antonio
-[gitlab]: https://gitlab.isa.net.ph/johnpeteraa
 [linkedin]: https://www.linkedin.com/in/john-peter-antonio-637976119/
 [oca]: https://www.youracclaim.com/badges/aca5aca4-7ee8-432b-8a8c-3a71ebd992f7/linked_in_profile
