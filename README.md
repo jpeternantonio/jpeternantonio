@@ -7,7 +7,7 @@
 - 🔭  I’m currently working on [Integrated Security and Automation Inc](http://www.isa.com.ph/)!
 - 🌱  I’m currently learning cloud computing(AWS)
 - 👯  I’m looking to collaborate with other developers
-- 🥅  2021 Goals: Contribute more to Open Source projects
+- 🥅  2022 Goals: Contribute more to Open Source projects
 - ⚡   Fun fact: I love gaming and play piano
 
 ### Spotify Playing 🎧
